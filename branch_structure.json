@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "maliknouman6262-patch-1",
+    "maliknouman6262-patch-2",
+    "origin"
+  ],
+  "parent": {
+    "main": null,
+    "maliknouman6262-patch-1": "main",
+    "maliknouman6262-patch-2": "main",
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "maliknouman6262-patch-1",
+    "maliknouman6262-patch-2",
+    "origin"
+  ]
+}
