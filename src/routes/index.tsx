@@ -34,7 +34,7 @@ import SECOND from "../assets/SECOND.jpg";
 import CUPOLA from "../assets/CUPOLA.png";
 import STRONGEST from "../assets/STRONGEST.jpg";
 import REPRESENTATIVE from "../assets/REPRESENTATIVE.jpg";
-import ACTIVE from "../assets/ACTIVE.jpg";
+import ACTIVE from "../assets/ACTIVE.Jpg";
 import OPENING from "../assets/OPENING.jpg";
 import COVERED from "../assets/COVERED.jpg";
 import fa from "../assets/fa.jpg";
